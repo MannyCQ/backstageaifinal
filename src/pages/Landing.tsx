@@ -7,7 +7,7 @@ export function Landing() {
       <section className="hero">
         <div className="hero-badge">
           <Zap size={14} />
-          AI-Powered Booking for Musicians
+          AI-Powered Booking for Artists
         </div>
         <h1>
           Get More Gigs.<br />
@@ -65,7 +65,7 @@ export function Landing() {
 
       <section className="cta-section">
         <h2>Ready to fill your calendar?</h2>
-        <p>Join musicians who are landing more gigs with less effort.</p>
+        <p>Join artists who are landing more gigs with less effort.</p>
         <Link to="/signup" className="btn btn-primary btn-lg">
           Get Started Free <ArrowRight size={18} />
         </Link>
